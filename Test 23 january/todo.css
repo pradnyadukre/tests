@@ -1,0 +1,31 @@
+  body {
+    background-color: aquamarine;
+  }
+  h1 {
+    font-size: 28px;
+    font-weight: 50;
+    margin: 1rem 0 3rem;
+    text-align: center;
+    color: brown;
+  }
+  .container {
+    background-color: grey;
+    max-width: 500px;
+    min-height: 300px;
+    position: relative;
+    left: 400px;
+    padding-top: 25px;
+    border: 2px dotted blueviolet;
+  }
+  .ip {
+    width: 300px;
+    margin-left: 50px;
+  }
+  .btn {
+    width: 80px;
+    color: black;
+    text-align: center;
+  }
+  ol{
+      background-color: lightgreen;
+  }
