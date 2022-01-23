@@ -1,7 +1,7 @@
 function addMore() {
     let name = document.getElementById('name').value
     if(name==''){
-        alert("please enter something to do you alsi");
+        alert("Please Enter something");
     }
     else{
         let box =document.getElementById('box');
